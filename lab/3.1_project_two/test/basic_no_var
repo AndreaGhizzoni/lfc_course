@@ -1,0 +1,10 @@
+main
+{
+  print 10;
+  print 11;
+  print 11+12;
+  print 11*12;
+  print 24/12;
+  print 70-1;
+  print -701;
+}

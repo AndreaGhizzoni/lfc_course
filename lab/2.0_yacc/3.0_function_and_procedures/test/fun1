@@ -1,0 +1,18 @@
+int sum(int x, int y){
+	
+	sum = x+y;
+}
+main{
+	y=0;
+	print y;
+	print sum(3,y);
+	y = 10;
+	print sum(3,y);
+	print sum(y, 3);
+	print sum (y+3,7);
+	
+	print sum(1,1) +1;
+
+	print y;
+	
+}

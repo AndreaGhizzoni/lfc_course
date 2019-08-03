@@ -1,0 +1,10 @@
+main
+{
+  print 10 < 9;
+  print 10 <= 9;
+  print 10 <= 10;
+  print 2>1;
+  print 2>= 1;
+  print TRUE;
+  print FALSE;
+}

@@ -1,0 +1,9 @@
+
+main{
+	y=0;
+	print y;
+	y = 10;
+
+	print y;
+	
+}

@@ -1,0 +1,15 @@
+zero (){
+
+}
+dueparam (int x, int y){
+
+}
+tre (bool x, int y, int z){
+
+}
+cinque (int a, int b, int c, int d, int e){
+
+}
+main {
+
+}

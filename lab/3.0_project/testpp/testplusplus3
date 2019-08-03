@@ -1,0 +1,9 @@
+main 
+{
+    float x; 
+    x = 10.1; 
+    x++; 
+    print x; 
+    x = (x++) + 10.1;
+    print (x++); 
+} 

@@ -1,0 +1,15 @@
+main
+{
+  if(TRUE)
+    print TRUE;
+
+    if(1<0){
+      int x;
+      int CONST y = 2;
+      print x < y;
+    }else
+    {
+     print FALSE;
+    }
+
+}

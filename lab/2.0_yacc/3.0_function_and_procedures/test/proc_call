@@ -1,0 +1,10 @@
+
+printZero(){
+  print 0;
+}
+
+
+main
+{
+  eval printZero();
+}

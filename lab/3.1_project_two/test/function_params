@@ -1,0 +1,15 @@
+
+int fun(int w){
+  print w;
+}
+
+int fun2(int x, int w){
+  print w;
+}
+
+main
+{
+  int x;
+  x = 0;
+  print x;
+}

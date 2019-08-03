@@ -1,0 +1,12 @@
+printInt(int x){
+	print x;
+	print x + 7;
+}
+main{
+	y=0;
+	print y;
+	printInt(3);
+	print(3+4);
+	
+
+}

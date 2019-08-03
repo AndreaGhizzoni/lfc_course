@@ -1,0 +1,17 @@
+main
+{
+    int x;
+    x = 0;
+    int y;
+    y = 0;
+    repeat{
+        repeat{
+            print (x);
+            x = x+1;
+        }until(x<10);
+
+        print (y);
+        y = y+1;
+    }until(y<10);
+}
+

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+zip_name=prj157507.zip
+sub_folder=157507
+
+make clean
+if [ -e "$zip_name" ]; then
+    rm -rf $zip_name
+fi
+
+mkdir $sub_folder
+cd $sub_folder
+cp ../functions.c .
+cp ../header.h .
+cp ../interpreter.c .
+cp ../lexer.l .
+cp ../parser.y .
+cp ../makefile .
+cd ..
+
+zip -r $zip_name $sub_folder
+rm -rf $sub_folder
+

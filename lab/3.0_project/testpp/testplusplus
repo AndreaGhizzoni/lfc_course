@@ -1,0 +1,9 @@
+main 
+{
+    int x; 
+    x = 10; 
+    x++; 
+    print x; 
+    x = (x++) + 10;
+    print (x++); 
+} 

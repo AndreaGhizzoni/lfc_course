@@ -1,0 +1,10 @@
+main{
+	x = 0;
+	if(x){
+	    print x;
+	}
+	else{
+	    print 4;
+	}
+
+}
